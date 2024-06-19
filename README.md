@@ -1,5 +1,5 @@
 # Taller Semana 10
-
+*Integrantes: Felipe Jimenez, Mario Calva, José Urdiales.
 
 ## Acciones previas al taller
 
